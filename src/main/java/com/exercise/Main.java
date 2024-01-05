@@ -6,7 +6,7 @@ public class Main {
         int a = 32;
         int b=20;
         int c =a*b;
-        int d =a+b;
+        int d =a+b*b;
 
     }
 }
